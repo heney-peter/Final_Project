@@ -1,0 +1,871 @@
+,Resort,Year,Total Snowfall
+0,Alta,2012 - 2013,366.0
+1,Alta,2013 - 2014,353.0
+2,Alta,2014 - 2015,278.0
+3,Alta,2015 - 2016,286.0
+4,Alta,2016 - 2017,304.0
+5,Alta,2017 - 2018,190.0
+6,Alta,2018 - 2019,656.0
+7,Alta,2019 - 2020,326.0
+8,Alta,2020 - 2021,330.0
+9,Alta,2021 - To Date,265.0
+10,Arapahoe Basin,2012 - 2013,281.0
+11,Arapahoe Basin,2013 - 2014,418.0
+12,Arapahoe Basin,2014 - 2015,314.0
+13,Arapahoe Basin,2015 - 2016,290.0
+14,Arapahoe Basin,2016 - 2017,345.0
+15,Arapahoe Basin,2017 - 2018,247.0
+16,Arapahoe Basin,2018 - 2019,329.0
+17,Arapahoe Basin,2019 - 2020,173.0
+18,Arapahoe Basin,2020 - 2021,236.0
+19,Arapahoe Basin,2021 - To Date,100.0
+20,Aspen Snowmass,2012 - 2013,309.0
+21,Aspen Snowmass,2013 - 2014,326.0
+22,Aspen Snowmass,2014 - 2015,220.0
+23,Aspen Snowmass,2015 - 2016,305.0
+24,Aspen Snowmass,2016 - 2017,319.0
+25,Aspen Snowmass,2017 - 2018,233.0
+26,Aspen Snowmass,2018 - 2019,396.0
+27,Aspen Snowmass,2019 - 2020,233.0
+28,Aspen Snowmass,2020 - 2021,257.0
+29,Aspen Snowmass,2021 - To Date,294.0
+30,Bear Mountain,2012 - 2013,102.0
+31,Bear Mountain,2013 - 2014,38.0
+32,Bear Mountain,2014 - 2015,51.0
+33,Bear Mountain,2015 - 2016,81.0
+34,Bear Mountain,2016 - 2017,174.0
+35,Bear Mountain,2017 - 2018,36.0
+36,Bear Mountain,2018 - 2019,133.0
+37,Bear Mountain,2019 - 2020,79.0
+38,Bear Mountain,2020 - 2021,110.0
+39,Bear Mountain,2021 - To Date,83.0
+40,Big Sky,2012 - 2013,395.0
+41,Big Sky,2013 - 2014,466.0
+42,Big Sky,2014 - 2015,236.0
+43,Big Sky,2015 - 2016,294.0
+44,Big Sky,2016 - 2017,277.0
+45,Big Sky,2017 - 2018,325.0
+46,Big Sky,2018 - 2019,266.0
+47,Big Sky,2019 - 2020,72.0
+48,Big Sky,2020 - 2021,162.0
+49,Big Sky,2021 - To Date,143.0
+50,Blue Mountain,2012 - 2013,56.0
+51,Blue Mountain,2013 - 2014,129.0
+52,Blue Mountain,2014 - 2015,100.0
+53,Blue Mountain,2015 - 2016,99.0
+54,Blue Mountain,2016 - 2017,68.0
+55,Blue Mountain,2017 - 2018,156.0
+56,Blue Mountain,2018 - 2019,106.0
+57,Blue Mountain,2019 - 2020,103.0
+58,Blue Mountain,2020 - 2021,7.0
+59,Blue Mountain,2021 - To Date,93.0
+60,Boyne Mountain,2012 - 2013,122.0
+61,Boyne Mountain,2013 - 2014,217.0
+62,Boyne Mountain,2014 - 2015,101.0
+63,Boyne Mountain,2015 - 2016,113.0
+64,Boyne Mountain,2016 - 2017,138.0
+65,Boyne Mountain,2017 - 2018,130.0
+66,Boyne Mountain,2018 - 2019,140.0
+67,Boyne Mountain,2019 - 2020,110.0
+68,Boyne Mountain,2020 - 2021,42.0
+69,Boyne Mountain,2021 - To Date,90.0
+70,Brighton,2012 - 2013,306.0
+71,Brighton,2013 - 2014,265.0
+72,Brighton,2014 - 2015,220.0
+73,Brighton,2015 - 2016,386.0
+74,Brighton,2016 - 2017,518.0
+75,Brighton,2017 - 2018,329.0
+76,Brighton,2018 - 2019,588.0
+77,Brighton,2019 - 2020,388.0
+78,Brighton,2020 - 2021,321.0
+79,Brighton,2021 - To Date,259.0
+80,Copper Mountain,2012 - 2013,237.0
+81,Copper Mountain,2013 - 2014,352.0
+82,Copper Mountain,2014 - 2015,254.0
+83,Copper Mountain,2015 - 2016,247.0
+84,Copper Mountain,2016 - 2017,246.0
+85,Copper Mountain,2017 - 2018,202.0
+86,Copper Mountain,2018 - 2019,246.0
+87,Copper Mountain,2019 - 2020,201.0
+88,Copper Mountain,2020 - 2021,185.0
+89,Copper Mountain,2021 - To Date,188.0
+90,Crystal Mountain,2012 - 2013,838.0
+91,Crystal Mountain,2013 - 2014,429.0
+92,Crystal Mountain,2014 - 2015,154.0
+93,Crystal Mountain,2015 - 2016,409.0
+94,Crystal Mountain,2016 - 2017,388.0
+95,Crystal Mountain,2017 - 2018,403.0
+96,Crystal Mountain,2018 - 2019,377.0
+97,Crystal Mountain,2019 - 2020,326.0
+98,Crystal Mountain,2020 - 2021,406.0
+99,Crystal Mountain,2021 - To Date,317.0
+100,Cypress Mountain,2012 - 2013,178.0
+101,Cypress Mountain,2013 - 2014,196.0
+102,Cypress Mountain,2014 - 2015,35.0
+103,Cypress Mountain,2015 - 2016,317.0
+104,Cypress Mountain,2016 - 2017,361.0
+105,Cypress Mountain,2017 - 2018,369.0
+106,Cypress Mountain,2018 - 2019,179.0
+107,Cypress Mountain,2019 - 2020,236.0
+108,Cypress Mountain,2020 - 2021,203.0
+109,Cypress Mountain,2021 - To Date,287.0
+110,Deer Valley,2012 - 2013,179.0
+111,Deer Valley,2013 - 2014,208.0
+112,Deer Valley,2014 - 2015,132.0
+113,Deer Valley,2015 - 2016,233.0
+114,Deer Valley,2016 - 2017,388.0
+115,Deer Valley,2017 - 2018,164.0
+116,Deer Valley,2018 - 2019,337.0
+117,Deer Valley,2019 - 2020,165.0
+118,Deer Valley,2020 - 2021,235.0
+119,Deer Valley,2021 - To Date,189.0
+120,Eldora,2012 - 2013,225.0
+121,Eldora,2013 - 2014,318.0
+122,Eldora,2014 - 2015,181.0
+123,Eldora,2015 - 2016,204.0
+124,Eldora,2016 - 2017,233.0
+125,Eldora,2017 - 2018,192.0
+126,Eldora,2018 - 2019,205.0
+127,Eldora,2019 - 2020,155.0
+128,Eldora,2020 - 2021,136.0
+129,Eldora,2021 - To Date,120.0
+130,Jackson Hole,2012 - 2013,349.0
+131,Jackson Hole,2013 - 2014,431.0
+132,Jackson Hole,2014 - 2015,461.0
+133,Jackson Hole,2015 - 2016,380.0
+134,Jackson Hole,2016 - 2017,483.0
+135,Jackson Hole,2017 - 2018,397.0
+136,Jackson Hole,2018 - 2019,464.0
+137,Jackson Hole,2019 - 2020,451.0
+138,Jackson Hole,2020 - 2021,437.0
+139,Jackson Hole,2021 - To Date,291.0
+140,June Mountain,2012 - 2013,0.0
+141,June Mountain,2013 - 2014,115.0
+142,June Mountain,2014 - 2015,75.0
+143,June Mountain,2015 - 2016,199.0
+144,June Mountain,2016 - 2017,415.0
+145,June Mountain,2017 - 2018,217.0
+146,June Mountain,2018 - 2019,492.0
+147,June Mountain,2019 - 2020,50.0
+148,June Mountain,2020 - 2021,109.0
+149,June Mountain,2021 - To Date,94.0
+150,Killington,2012 - 2013,182.0
+151,Killington,2013 - 2014,197.0
+152,Killington,2014 - 2015,191.0
+153,Killington,2015 - 2016,67.0
+154,Killington,2016 - 2017,225.0
+155,Killington,2017 - 2018,223.0
+156,Killington,2018 - 2019,197.0
+157,Killington,2019 - 2020,146.0
+158,Killington,2020 - 2021,151.0
+159,Killington,2021 - To Date,118.0
+160,Lake Louise,2012 - 2013,184.0
+161,Lake Louise,2013 - 2014,298.0
+162,Lake Louise,2014 - 2015,183.0
+163,Lake Louise,2015 - 2016,133.0
+164,Lake Louise,2016 - 2017,214.0
+165,Lake Louise,2017 - 2018,290.0
+166,Lake Louise,2018 - 2019,199.0
+167,Lake Louise,2019 - 2020,211.0
+168,Lake Louise,2020 - 2021,175.0
+169,Lake Louise,2021 - To Date,234.0
+170,Loon Mountain,2012 - 2013,156.0
+171,Loon Mountain,2013 - 2014,158.0
+172,Loon Mountain,2014 - 2015,147.0
+173,Loon Mountain,2015 - 2016,49.0
+174,Loon Mountain,2016 - 2017,187.0
+175,Loon Mountain,2017 - 2018,172.0
+176,Loon Mountain,2018 - 2019,195.0
+177,Loon Mountain,2019 - 2020,102.0
+178,Loon Mountain,2020 - 2021,105.0
+179,Loon Mountain,2021 - To Date,84.0
+180,Mammoth,2012 - 2013,315.0
+181,Mammoth,2013 - 2014,192.0
+182,Mammoth,2014 - 2015,161.0
+183,Mammoth,2015 - 2016,393.0
+184,Mammoth,2016 - 2017,608.0
+185,Mammoth,2017 - 2018,277.0
+186,Mammoth,2018 - 2019,495.0
+187,Mammoth,2019 - 2020,153.0
+188,Mammoth,2020 - 2021,225.0
+189,Mammoth,2021 - To Date,181.0
+190,Mt. Bachelor,2012 - 2013,830.0
+191,Mt. Bachelor,2013 - 2014,776.0
+192,Mt. Bachelor,2014 - 2015,177.0
+193,Mt. Bachelor,2015 - 2016,373.0
+194,Mt. Bachelor,2016 - 2017,469.0
+195,Mt. Bachelor,2017 - 2018,223.0
+196,Mt. Bachelor,2018 - 2019,349.0
+197,Mt. Bachelor,2019 - 2020,214.0
+198,Mt. Bachelor,2020 - 2021,265.0
+199,Mt. Bachelor,2021 - To Date,234.0
+200,Mt. Norquay,2012 - 2013,53.0
+201,Mt. Norquay,2013 - 2014,96.0
+202,Mt. Norquay,2014 - 2015,49.0
+203,Mt. Norquay,2015 - 2016,74.0
+204,Mt. Norquay,2016 - 2017,133.0
+205,Mt. Norquay,2017 - 2018,158.0
+206,Mt. Norquay,2018 - 2019,98.0
+207,Mt. Norquay,2019 - 2020,112.0
+208,Mt. Norquay,2020 - 2021,144.0
+209,Mt. Norquay,2021 - To Date,98.0
+210,Palisades Tahoe,2012 - 2013,289.0
+211,Palisades Tahoe,2013 - 2014,273.0
+212,Palisades Tahoe,2014 - 2015,193.0
+213,Palisades Tahoe,2015 - 2016,473.0
+214,Palisades Tahoe,2016 - 2017,701.0
+215,Palisades Tahoe,2017 - 2018,377.0
+216,Palisades Tahoe,2018 - 2019,650.0
+217,Palisades Tahoe,2019 - 2020,148.0
+218,Palisades Tahoe,2020 - 2021,275.0
+219,Palisades Tahoe,2021 - To Date,245.0
+220,Revelstoke,2012 - 2013,191.0
+221,Revelstoke,2013 - 2014,221.0
+222,Revelstoke,2014 - 2015,216.0
+223,Revelstoke,2015 - 2016,285.0
+224,Revelstoke,2016 - 2017,251.0
+225,Revelstoke,2017 - 2018,242.0
+226,Revelstoke,2018 - 2019,185.0
+227,Revelstoke,2019 - 2020,209.0
+228,Revelstoke,2020 - 2021,217.0
+229,Revelstoke,2021 - To Date,287.0
+230,Snow Summit,2012 - 2013,83.0
+231,Snow Summit,2013 - 2014,26.0
+232,Snow Summit,2014 - 2015,59.0
+233,Snow Summit,2015 - 2016,91.0
+234,Snow Summit,2016 - 2017,180.0
+235,Snow Summit,2017 - 2018,36.0
+236,Snow Summit,2018 - 2019,143.0
+237,Snow Summit,2019 - 2020,110.0
+238,Snow Summit,2020 - 2021,121.0
+239,Snow Summit,2021 - To Date,58.0
+240,Snowbasin,2012 - 2013,197.0
+241,Snowbasin,2013 - 2014,227.0
+242,Snowbasin,2014 - 2015,117.0
+243,Snowbasin,2015 - 2016,253.0
+244,Snowbasin,2016 - 2017,421.0
+245,Snowbasin,2017 - 2018,205.0
+246,Snowbasin,2018 - 2019,432.0
+247,Snowbasin,2019 - 2020,220.0
+248,Snowbasin,2020 - 2021,295.0
+249,Snowbasin,2021 - To Date,198.0
+250,Snowbird,2012 - 2013,393.0
+251,Snowbird,2013 - 2014,387.0
+252,Snowbird,2014 - 2015,327.0
+253,Snowbird,2015 - 2016,454.0
+254,Snowbird,2016 - 2017,589.0
+255,Snowbird,2017 - 2018,390.0
+256,Snowbird,2018 - 2019,690.0
+257,Snowbird,2019 - 2020,351.0
+258,Snowbird,2020 - 2021,350.0
+259,Snowbird,2021 - To Date,220.0
+260,Solitude,2012 - 2013,249.0
+261,Solitude,2013 - 2014,500.0
+262,Solitude,2014 - 2015,202.0
+263,Solitude,2015 - 2016,310.0
+264,Solitude,2016 - 2017,438.0
+265,Solitude,2017 - 2018,260.0
+266,Solitude,2018 - 2019,437.0
+267,Solitude,2019 - 2020,313.0
+268,Solitude,2020 - 2021,278.0
+269,Solitude,2021 - To Date,263.0
+270,Steamboat,2012 - 2013,380.0
+271,Steamboat,2013 - 2014,263.0
+272,Steamboat,2014 - 2015,174.0
+273,Steamboat,2015 - 2016,331.0
+274,Steamboat,2016 - 2017,291.0
+275,Steamboat,2017 - 2018,238.0
+276,Steamboat,2018 - 2019,320.0
+277,Steamboat,2019 - 2020,268.0
+278,Steamboat,2020 - 2021,219.0
+279,Steamboat,2021 - To Date,211.0
+280,Stratton,2012 - 2013,144.0
+281,Stratton,2013 - 2014,192.0
+282,Stratton,2014 - 2015,159.0
+283,Stratton,2015 - 2016,80.0
+284,Stratton,2016 - 2017,138.0
+285,Stratton,2017 - 2018,164.0
+286,Stratton,2018 - 2019,111.0
+287,Stratton,2019 - 2020,88.0
+288,Stratton,2020 - 2021,113.0
+289,Stratton,2021 - To Date,21.0
+290,Sugarbush,2012 - 2013,326.0
+291,Sugarbush,2013 - 2014,240.0
+292,Sugarbush,2014 - 2015,257.0
+293,Sugarbush,2015 - 2016,154.0
+294,Sugarbush,2016 - 2017,412.0
+295,Sugarbush,2017 - 2018,186.0
+296,Sugarbush,2018 - 2019,173.0
+297,Sugarbush,2019 - 2020,102.0
+298,Sugarbush,2020 - 2021,133.0
+299,Sugarbush,2021 - To Date,168.0
+300,Sugarloaf,2012 - 2013,135.0
+301,Sugarloaf,2013 - 2014,131.0
+302,Sugarloaf,2014 - 2015,149.0
+303,Sugarloaf,2015 - 2016,86.0
+304,Sugarloaf,2016 - 2017,220.0
+305,Sugarloaf,2017 - 2018,165.0
+306,Sugarloaf,2018 - 2019,215.0
+307,Sugarloaf,2019 - 2020,99.0
+308,Sugarloaf,2020 - 2021,108.0
+309,Sugarloaf,2021 - To Date,112.0
+310,Sun Valley,2012 - 2013,165.0
+311,Sun Valley,2013 - 2014,161.0
+312,Sun Valley,2014 - 2015,143.0
+313,Sun Valley,2015 - 2016,243.0
+314,Sun Valley,2016 - 2017,359.0
+315,Sun Valley,2017 - 2018,120.0
+316,Sun Valley,2018 - 2019,193.0
+317,Sun Valley,2019 - 2020,68.0
+318,Sun Valley,2020 - 2021,125.0
+319,Sun Valley,2021 - To Date,102.0
+320,Sunday River,2012 - 2013,108.0
+321,Sunday River,2013 - 2014,111.0
+322,Sunday River,2014 - 2015,153.0
+323,Sunday River,2015 - 2016,57.0
+324,Sunday River,2016 - 2017,196.0
+325,Sunday River,2017 - 2018,125.0
+326,Sunday River,2018 - 2019,154.0
+327,Sunday River,2019 - 2020,102.0
+328,Sunday River,2020 - 2021,80.0
+329,Sunday River,2021 - To Date,98.0
+330,Sunshine Village,2012 - 2013,209.0
+331,Sunshine Village,2013 - 2014,271.0
+332,Sunshine Village,2014 - 2015,169.0
+333,Sunshine Village,2015 - 2016,226.0
+334,Sunshine Village,2016 - 2017,299.0
+335,Sunshine Village,2017 - 2018,300.0
+336,Sunshine Village,2018 - 2019,174.0
+337,Sunshine Village,2019 - 2020,270.0
+338,Sunshine Village,2020 - 2021,297.0
+339,Sunshine Village,2021 - To Date,266.0
+340,Taos,2012 - 2013,204.0
+341,Taos,2013 - 2014,191.0
+342,Taos,2014 - 2015,179.0
+343,Taos,2015 - 2016,169.0
+344,Taos,2016 - 2017,192.0
+345,Taos,2017 - 2018,78.0
+346,Taos,2018 - 2019,219.0
+347,Taos,2019 - 2020,166.0
+348,Taos,2020 - 2021,165.0
+349,Taos,2021 - To Date,177.0
+350,Tremblant,2012 - 2013,193.0
+351,Tremblant,2013 - 2014,201.0
+352,Tremblant,2014 - 2015,137.0
+353,Tremblant,2015 - 2016,195.0
+354,Tremblant,2016 - 2017,211.0
+355,Tremblant,2017 - 2018,197.0
+356,Tremblant,2018 - 2019,193.0
+357,Tremblant,2019 - 2020,135.0
+358,Tremblant,2020 - 2021,80.0
+359,Tremblant,2021 - To Date,165.0
+360,Winter Park,2012 - 2013,300.0
+361,Winter Park,2013 - 2014,356.0
+362,Winter Park,2014 - 2015,288.0
+363,Winter Park,2015 - 2016,385.0
+364,Winter Park,2016 - 2017,401.0
+365,Winter Park,2017 - 2018,302.0
+366,Winter Park,2018 - 2019,328.0
+367,Winter Park,2019 - 2020,253.0
+368,Winter Park,2020 - 2021,216.0
+369,Winter Park,2021 - To Date,183.0
+370,Summit at Snoqualmie,2012 - 2013,467.0
+371,Summit at Snoqualmie,2013 - 2014,205.0
+372,Summit at Snoqualmie,2014 - 2015,37.0
+373,Summit at Snoqualmie,2015 - 2016,314.0
+374,Summit at Snoqualmie,2016 - 2017,280.0
+375,Summit at Snoqualmie,2017 - 2018,302.0
+376,Summit at Snoqualmie,2018 - 2019,201.0
+377,Summit at Snoqualmie,2019 - 2020,213.0
+378,Summit at Snoqualmie,2020 - 2021,216.0
+379,Summit at Snoqualmie,2021 - To Date,219.0
+380,Snowshoe,2012 - 2013,156.0
+381,Snowshoe,2013 - 2014,132.0
+382,Snowshoe,2014 - 2015,139.0
+383,Snowshoe,2015 - 2016,120.0
+384,Snowshoe,2016 - 2017,95.0
+385,Snowshoe,2017 - 2018,171.0
+386,Snowshoe,2018 - 2019,95.0
+387,Snowshoe,2019 - 2020,78.0
+388,Snowshoe,2020 - 2021,70.0
+389,Snowshoe,2021 - To Date,70.0
+390,The Highlands,2012 - 2013,128.0
+391,The Highlands,2013 - 2014,238.0
+392,The Highlands,2014 - 2015,98.0
+393,The Highlands,2015 - 2016,108.0
+394,The Highlands,2016 - 2017,106.0
+395,The Highlands,2017 - 2018,111.0
+396,The Highlands,2018 - 2019,145.0
+397,The Highlands,2019 - 2020,125.0
+398,The Highlands,2020 - 2021,63.0
+399,The Highlands,2021 - To Date,74.0
+400,Windham Mountain,2012 - 2013,107.0
+401,Windham Mountain,2013 - 2014,129.0
+402,Windham Mountain,2014 - 2015,171.0
+403,Windham Mountain,2015 - 2016,12.0
+404,Windham Mountain,2016 - 2017,112.0
+405,Windham Mountain,2017 - 2018,99.0
+406,Windham Mountain,2018 - 2019,84.0
+407,Windham Mountain,2019 - 2020,38.0
+408,Windham Mountain,2020 - 2021,90.0
+409,Windham Mountain,2021 - To Date,49.0
+410,Beaver Creek,2012 - 2013,204.0
+411,Beaver Creek,2013 - 2014,227.0
+412,Beaver Creek,2014 - 2015,210.0
+413,Beaver Creek,2015 - 2016,298.0
+414,Beaver Creek,2016 - 2017,247.0
+415,Beaver Creek,2017 - 2018,193.0
+416,Beaver Creek,2018 - 2019,276.0
+417,Beaver Creek,2019 - 2020,216.0
+418,Beaver Creek,2020 - 2021,202.0
+419,Beaver Creek,2021 - To Date,185.0
+420,Breckenridge,2012 - 2013,275.0
+421,Breckenridge,2013 - 2014,388.0
+422,Breckenridge,2014 - 2015,289.0
+423,Breckenridge,2015 - 2016,321.0
+424,Breckenridge,2016 - 2017,279.0
+425,Breckenridge,2017 - 2018,271.0
+426,Breckenridge,2018 - 2019,387.0
+427,Breckenridge,2019 - 2020,280.0
+428,Breckenridge,2020 - 2021,284.0
+429,Breckenridge,2021 - To Date,214.0
+430,Brides les Bains,2012 - 2013,0.0
+431,Brides les Bains,2013 - 2014,22.0
+432,Brides les Bains,2014 - 2015,6.0
+433,Brides les Bains,2015 - 2016,79.0
+434,Brides les Bains,2016 - 2017,94.0
+435,Brides les Bains,2017 - 2018,191.0
+436,Brides les Bains,2018 - 2019,0.0
+437,Brides les Bains,2019 - 2020,76.0
+438,Brides les Bains,2020 - 2021,0.0
+439,Brides les Bains,2021 - To Date,26.0
+440,Courchevel,2012 - 2013,103.0
+441,Courchevel,2013 - 2014,156.0
+442,Courchevel,2014 - 2015,158.0
+443,Courchevel,2015 - 2016,84.0
+444,Courchevel,2016 - 2017,80.0
+445,Courchevel,2017 - 2018,195.0
+446,Courchevel,2018 - 2019,94.0
+447,Courchevel,2019 - 2020,220.0
+448,Courchevel,2020 - 2021,36.0
+449,Courchevel,2021 - To Date,150.0
+450,Fernie,2012 - 2013,297.0
+451,Fernie,2013 - 2014,310.0
+452,Fernie,2014 - 2015,149.0
+453,Fernie,2015 - 2016,271.0
+454,Fernie,2016 - 2017,378.0
+455,Fernie,2017 - 2018,362.0
+456,Fernie,2018 - 2019,276.0
+457,Fernie,2019 - 2020,253.0
+458,Fernie,2020 - 2021,206.0
+459,Fernie,2021 - To Date,224.0
+460,Folgàrida - Marilléva,2012 - 2013,71.0
+461,Folgàrida - Marilléva,2013 - 2014,78.0
+462,Folgàrida - Marilléva,2014 - 2015,114.0
+463,Folgàrida - Marilléva,2015 - 2016,93.0
+464,Folgàrida - Marilléva,2016 - 2017,69.0
+465,Folgàrida - Marilléva,2017 - 2018,116.0
+466,Folgàrida - Marilléva,2018 - 2019,110.0
+467,Folgàrida - Marilléva,2019 - 2020,61.0
+468,Folgàrida - Marilléva,2020 - 2021,0.0
+469,Folgàrida - Marilléva,2021 - To Date,42.0
+470,Heavenly,2012 - 2013,247.0
+471,Heavenly,2013 - 2014,189.0
+472,Heavenly,2014 - 2015,89.0
+473,Heavenly,2015 - 2016,325.0
+474,Heavenly,2016 - 2017,620.0
+475,Heavenly,2017 - 2018,271.0
+476,Heavenly,2018 - 2019,496.0
+477,Heavenly,2019 - 2020,158.0
+478,Heavenly,2020 - 2021,132.0
+479,Heavenly,2021 - To Date,183.0
+480,Keystone,2012 - 2013,163.0
+481,Keystone,2013 - 2014,268.0
+482,Keystone,2014 - 2015,180.0
+483,Keystone,2015 - 2016,269.0
+484,Keystone,2016 - 2017,259.0
+485,Keystone,2017 - 2018,211.0
+486,Keystone,2018 - 2019,225.0
+487,Keystone,2019 - 2020,203.0
+488,Keystone,2020 - 2021,192.0
+489,Keystone,2021 - To Date,142.0
+490,Kicking Horse,2012 - 2013,148.0
+491,Kicking Horse,2013 - 2014,221.0
+492,Kicking Horse,2014 - 2015,196.0
+493,Kicking Horse,2015 - 2016,204.0
+494,Kicking Horse,2016 - 2017,224.0
+495,Kicking Horse,2017 - 2018,243.0
+496,Kicking Horse,2018 - 2019,189.0
+497,Kicking Horse,2019 - 2020,176.0
+498,Kicking Horse,2020 - 2021,151.0
+499,Kicking Horse,2021 - To Date,187.0
+500,Kimberley,2012 - 2013,72.0
+501,Kimberley,2013 - 2014,131.0
+502,Kimberley,2014 - 2015,80.0
+503,Kimberley,2015 - 2016,108.0
+504,Kimberley,2016 - 2017,163.0
+505,Kimberley,2017 - 2018,199.0
+506,Kimberley,2018 - 2019,105.0
+507,Kimberley,2019 - 2020,116.0
+508,Kimberley,2020 - 2021,109.0
+509,Kimberley,2021 - To Date,120.0
+510,Kirkwood,2012 - 2013,338.0
+511,Kirkwood,2013 - 2014,334.0
+512,Kirkwood,2014 - 2015,143.0
+513,Kirkwood,2015 - 2016,391.0
+514,Kirkwood,2016 - 2017,680.0
+515,Kirkwood,2017 - 2018,311.0
+516,Kirkwood,2018 - 2019,578.0
+517,Kirkwood,2019 - 2020,173.0
+518,Kirkwood,2020 - 2021,186.0
+519,Kirkwood,2021 - To Date,188.0
+520,La Tania,2012 - 2013,56.0
+521,La Tania,2013 - 2014,78.0
+522,La Tania,2014 - 2015,123.0
+523,La Tania,2015 - 2016,73.0
+524,La Tania,2016 - 2017,58.0
+525,La Tania,2017 - 2018,128.0
+526,La Tania,2018 - 2019,70.0
+527,La Tania,2019 - 2020,133.0
+528,La Tania,2020 - 2021,0.0
+529,La Tania,2021 - To Date,72.0
+530,Les Menuires,2012 - 2013,239.0
+531,Les Menuires,2013 - 2014,117.0
+532,Les Menuires,2014 - 2015,123.0
+533,Les Menuires,2015 - 2016,113.0
+534,Les Menuires,2016 - 2017,116.0
+535,Les Menuires,2017 - 2018,144.0
+536,Les Menuires,2018 - 2019,89.0
+537,Les Menuires,2019 - 2020,151.0
+538,Les Menuires,2020 - 2021,50.0
+539,Les Menuires,2021 - To Date,113.0
+540,Madonna Di Campiglio,2012 - 2013,164.0
+541,Madonna Di Campiglio,2013 - 2014,192.0
+542,Madonna Di Campiglio,2014 - 2015,78.0
+543,Madonna Di Campiglio,2015 - 2016,151.0
+544,Madonna Di Campiglio,2016 - 2017,96.0
+545,Madonna Di Campiglio,2017 - 2018,125.0
+546,Madonna Di Campiglio,2018 - 2019,61.0
+547,Madonna Di Campiglio,2019 - 2020,230.0
+548,Madonna Di Campiglio,2020 - 2021,1.0
+549,Madonna Di Campiglio,2021 - To Date,69.0
+550,Meribel,2012 - 2013,288.0
+551,Meribel,2013 - 2014,30.0
+552,Meribel,2014 - 2015,82.0
+553,Meribel,2015 - 2016,79.0
+554,Meribel,2016 - 2017,102.0
+555,Meribel,2017 - 2018,203.0
+556,Meribel,2018 - 2019,87.0
+557,Meribel,2019 - 2020,123.0
+558,Meribel,2020 - 2021,20.0
+559,Meribel,2021 - To Date,92.0
+560,Mont-Sainte-Anne,2012 - 2013,170.0
+561,Mont-Sainte-Anne,2013 - 2014,197.0
+562,Mont-Sainte-Anne,2014 - 2015,167.0
+563,Mont-Sainte-Anne,2015 - 2016,172.0
+564,Mont-Sainte-Anne,2016 - 2017,213.0
+565,Mont-Sainte-Anne,2017 - 2018,185.0
+566,Mont-Sainte-Anne,2018 - 2019,197.0
+567,Mont-Sainte-Anne,2019 - 2020,153.0
+568,Mont-Sainte-Anne,2020 - 2021,94.0
+569,Mont-Sainte-Anne,2021 - To Date,145.0
+570,Nakiska,2012 - 2013,93.0
+571,Nakiska,2013 - 2014,191.0
+572,Nakiska,2014 - 2015,67.0
+573,Nakiska,2015 - 2016,78.0
+574,Nakiska,2016 - 2017,109.0
+575,Nakiska,2017 - 2018,145.0
+576,Nakiska,2018 - 2019,114.0
+577,Nakiska,2019 - 2020,100.0
+578,Nakiska,2020 - 2021,58.0
+579,Nakiska,2021 - To Date,105.0
+580,Nendaz,2012 - 2013,106.0
+581,Nendaz,2013 - 2014,146.0
+582,Nendaz,2014 - 2015,55.0
+583,Nendaz,2015 - 2016,85.0
+584,Nendaz,2016 - 2017,34.0
+585,Nendaz,2017 - 2018,177.0
+586,Nendaz,2018 - 2019,111.0
+587,Nendaz,2019 - 2020,96.0
+588,Nendaz,2020 - 2021,96.0
+589,Nendaz,2021 - To Date,71.0
+590,Northstar California,2012 - 2013,283.0
+591,Northstar California,2013 - 2014,177.0
+592,Northstar California,2014 - 2015,134.0
+593,Northstar California,2015 - 2016,433.0
+594,Northstar California,2016 - 2017,692.0
+595,Northstar California,2017 - 2018,269.0
+596,Northstar California,2018 - 2019,601.0
+597,Northstar California,2019 - 2020,202.0
+598,Northstar California,2020 - 2021,181.0
+599,Northstar California,2021 - To Date,213.0
+600,Okemo,2012 - 2013,136.0
+601,Okemo,2013 - 2014,158.0
+602,Okemo,2014 - 2015,142.0
+603,Okemo,2015 - 2016,20.0
+604,Okemo,2016 - 2017,159.0
+605,Okemo,2017 - 2018,171.0
+606,Okemo,2018 - 2019,148.0
+607,Okemo,2019 - 2020,49.0
+608,Okemo,2020 - 2021,78.0
+609,Okemo,2021 - To Date,115.0
+610,Orelle,2012 - 2013,83.0
+611,Orelle,2013 - 2014,107.0
+612,Orelle,2014 - 2015,100.0
+613,Orelle,2015 - 2016,155.0
+614,Orelle,2016 - 2017,110.0
+615,Orelle,2017 - 2018,259.0
+616,Orelle,2018 - 2019,137.0
+617,Orelle,2019 - 2020,226.0
+618,Orelle,2020 - 2021,0.0
+619,Orelle,2021 - To Date,107.0
+620,Park City,2012 - 2013,257.0
+621,Park City,2013 - 2014,242.0
+622,Park City,2014 - 2015,154.0
+623,Park City,2015 - 2016,288.0
+624,Park City,2016 - 2017,404.0
+625,Park City,2017 - 2018,167.0
+626,Park City,2018 - 2019,328.0
+627,Park City,2019 - 2020,200.0
+628,Park City,2020 - 2021,186.0
+629,Park City,2021 - To Date,167.0
+630,Pontedilegno - Tonale,2012 - 2013,37.0
+631,Pontedilegno - Tonale,2013 - 2014,157.0
+632,Pontedilegno - Tonale,2014 - 2015,100.0
+633,Pontedilegno - Tonale,2015 - 2016,116.0
+634,Pontedilegno - Tonale,2016 - 2017,53.0
+635,Pontedilegno - Tonale,2017 - 2018,135.0
+636,Pontedilegno - Tonale,2018 - 2019,14.0
+637,Pontedilegno - Tonale,2019 - 2020,134.0
+638,Pontedilegno - Tonale,2020 - 2021,59.0
+639,Pontedilegno - Tonale,2021 - To Date,13.0
+640,St Martin de Belleville,2012 - 2013,196.0
+641,St Martin de Belleville,2013 - 2014,92.0
+642,St Martin de Belleville,2014 - 2015,137.0
+643,St Martin de Belleville,2015 - 2016,118.0
+644,St Martin de Belleville,2016 - 2017,108.0
+645,St Martin de Belleville,2017 - 2018,136.0
+646,St Martin de Belleville,2018 - 2019,72.0
+647,St Martin de Belleville,2019 - 2020,115.0
+648,St Martin de Belleville,2020 - 2021,0.0
+649,St Martin de Belleville,2021 - To Date,31.0
+650,Snowbasin,2012 - 2013,197.0
+651,Snowbasin,2013 - 2014,227.0
+652,Snowbasin,2014 - 2015,117.0
+653,Snowbasin,2015 - 2016,253.0
+654,Snowbasin,2016 - 2017,421.0
+655,Snowbasin,2017 - 2018,205.0
+656,Snowbasin,2018 - 2019,432.0
+657,Snowbasin,2019 - 2020,220.0
+658,Snowbasin,2020 - 2021,295.0
+659,Snowbasin,2021 - To Date,198.0
+660,Stevens Pass,2012 - 2013,436.0
+661,Stevens Pass,2013 - 2014,373.0
+662,Stevens Pass,2014 - 2015,126.0
+663,Stevens Pass,2015 - 2016,393.0
+664,Stevens Pass,2016 - 2017,350.0
+665,Stevens Pass,2017 - 2018,282.0
+666,Stevens Pass,2018 - 2019,267.0
+667,Stevens Pass,2019 - 2020,422.0
+668,Stevens Pass,2020 - 2021,414.0
+669,Stevens Pass,2021 - To Date,334.0
+670,Stoneham Mountain,2012 - 2013,134.0
+671,Stoneham Mountain,2013 - 2014,125.0
+672,Stoneham Mountain,2014 - 2015,151.0
+673,Stoneham Mountain,2015 - 2016,147.0
+674,Stoneham Mountain,2016 - 2017,177.0
+675,Stoneham Mountain,2017 - 2018,148.0
+676,Stoneham Mountain,2018 - 2019,166.0
+677,Stoneham Mountain,2019 - 2020,115.0
+678,Stoneham Mountain,2020 - 2021,87.0
+679,Stoneham Mountain,2021 - To Date,133.0
+680,Stowe,2012 - 2013,218.0
+681,Stowe,2013 - 2014,231.0
+682,Stowe,2014 - 2015,249.0
+683,Stowe,2015 - 2016,146.0
+684,Stowe,2016 - 2017,330.0
+685,Stowe,2017 - 2018,258.0
+686,Stowe,2018 - 2019,242.0
+687,Stowe,2019 - 2020,182.0
+688,Stowe,2020 - 2021,184.0
+689,Stowe,2021 - To Date,166.0
+690,Sun Valley,2012 - 2013,165.0
+691,Sun Valley,2013 - 2014,161.0
+692,Sun Valley,2014 - 2015,143.0
+693,Sun Valley,2015 - 2016,243.0
+694,Sun Valley,2016 - 2017,359.0
+695,Sun Valley,2017 - 2018,120.0
+696,Sun Valley,2018 - 2019,193.0
+697,Sun Valley,2019 - 2020,68.0
+698,Sun Valley,2020 - 2021,125.0
+699,Sun Valley,2021 - To Date,102.0
+700,Thyon 2000,2012 - 2013,83.0
+701,Thyon 2000,2013 - 2014,102.0
+702,Thyon 2000,2014 - 2015,39.0
+703,Thyon 2000,2015 - 2016,79.0
+704,Thyon 2000,2016 - 2017,34.0
+705,Thyon 2000,2017 - 2018,177.0
+706,Thyon 2000,2018 - 2019,77.0
+707,Thyon 2000,2019 - 2020,65.0
+708,Thyon 2000,2020 - 2021,98.0
+709,Thyon 2000,2021 - To Date,71.0
+710,Vail,2012 - 2013,285.0
+711,Vail,2013 - 2014,263.0
+712,Vail,2014 - 2015,236.0
+713,Vail,2015 - 2016,313.0
+714,Vail,2016 - 2017,215.0
+715,Vail,2017 - 2018,171.0
+716,Vail,2018 - 2019,281.0
+717,Vail,2019 - 2020,229.0
+718,Vail,2020 - 2021,218.0
+719,Vail,2021 - To Date,186.0
+720,Val Thorens,2012 - 2013,291.0
+721,Val Thorens,2013 - 2014,244.0
+722,Val Thorens,2014 - 2015,202.0
+723,Val Thorens,2015 - 2016,240.0
+724,Val Thorens,2016 - 2017,175.0
+725,Val Thorens,2017 - 2018,248.0
+726,Val Thorens,2018 - 2019,185.0
+727,Val Thorens,2019 - 2020,286.0
+728,Val Thorens,2020 - 2021,182.0
+729,Val Thorens,2021 - To Date,185.0
+730,Verbier,2012 - 2013,245.0
+731,Verbier,2013 - 2014,160.0
+732,Verbier,2014 - 2015,89.0
+733,Verbier,2015 - 2016,143.0
+734,Verbier,2016 - 2017,73.0
+735,Verbier,2017 - 2018,312.0
+736,Verbier,2018 - 2019,189.0
+737,Verbier,2019 - 2020,234.0
+738,Verbier,2020 - 2021,124.0
+739,Verbier,2021 - To Date,113.0
+740,Veysonnaz - Printze,2012 - 2013,114.0
+741,Veysonnaz - Printze,2013 - 2014,120.0
+742,Veysonnaz - Printze,2014 - 2015,35.0
+743,Veysonnaz - Printze,2015 - 2016,73.0
+744,Veysonnaz - Printze,2016 - 2017,34.0
+745,Veysonnaz - Printze,2017 - 2018,181.0
+746,Veysonnaz - Printze,2018 - 2019,99.0
+747,Veysonnaz - Printze,2019 - 2020,104.0
+748,Veysonnaz - Printze,2020 - 2021,96.0
+749,Veysonnaz - Printze,2021 - To Date,62.0
+750,Whistler Blackcomb,2012 - 2013,280.0
+751,Whistler Blackcomb,2013 - 2014,274.0
+752,Whistler Blackcomb,2014 - 2015,219.0
+753,Whistler Blackcomb,2015 - 2016,435.0
+754,Whistler Blackcomb,2016 - 2017,505.0
+755,Whistler Blackcomb,2017 - 2018,316.0
+756,Whistler Blackcomb,2018 - 2019,374.0
+757,Whistler Blackcomb,2019 - 2020,295.0
+758,Whistler Blackcomb,2020 - 2021,281.0
+759,Whistler Blackcomb,2021 - To Date,321.0
+760,Afton Alps,2012 - 2013,58.0
+761,Afton Alps,2013 - 2014,83.0
+762,Afton Alps,2014 - 2015,35.0
+763,Afton Alps,2015 - 2016,27.0
+764,Afton Alps,2016 - 2017,29.0
+765,Afton Alps,2017 - 2018,42.0
+766,Afton Alps,2018 - 2019,56.0
+767,Afton Alps,2019 - 2020,34.0
+768,Afton Alps,2020 - 2021,38.0
+769,Afton Alps,2021 - To Date,19.0
+770,Folgaria - Lavarone,2012 - 2013,157.0
+771,Folgaria - Lavarone,2013 - 2014,152.0
+772,Folgaria - Lavarone,2014 - 2015,138.0
+773,Folgaria - Lavarone,2015 - 2016,57.0
+774,Folgaria - Lavarone,2016 - 2017,47.0
+775,Folgaria - Lavarone,2017 - 2018,59.0
+776,Folgaria - Lavarone,2018 - 2019,40.0
+777,Folgaria - Lavarone,2019 - 2020,94.0
+778,Folgaria - Lavarone,2020 - 2021,65.0
+779,Folgaria - Lavarone,2021 - To Date,43.0
+780,Paganella Ski,2012 - 2013,100.0
+781,Paganella Ski,2013 - 2014,217.0
+782,Paganella Ski,2014 - 2015,107.0
+783,Paganella Ski,2015 - 2016,93.0
+784,Paganella Ski,2016 - 2017,46.0
+785,Paganella Ski,2017 - 2018,96.0
+786,Paganella Ski,2018 - 2019,65.0
+787,Paganella Ski,2019 - 2020,95.0
+788,Paganella Ski,2020 - 2021,35.0
+789,Paganella Ski,2021 - To Date,58.0
+790,Crested Butte,2012 - 2013,143.0
+791,Crested Butte,2013 - 2014,246.0
+792,Crested Butte,2014 - 2015,192.0
+793,Crested Butte,2015 - 2016,132.0
+794,Crested Butte,2016 - 2017,335.0
+795,Crested Butte,2017 - 2018,145.0
+796,Crested Butte,2018 - 2019,251.0
+797,Crested Butte,2019 - 2020,168.0
+798,Crested Butte,2020 - 2021,144.0
+799,Crested Butte,2021 - To Date,228.0
+800,Monte Bondone,2012 - 2013,57.0
+801,Monte Bondone,2013 - 2014,114.0
+802,Monte Bondone,2014 - 2015,46.0
+803,Monte Bondone,2015 - 2016,37.0
+804,Monte Bondone,2016 - 2017,30.0
+805,Monte Bondone,2017 - 2018,60.0
+806,Monte Bondone,2018 - 2019,40.0
+807,Monte Bondone,2019 - 2020,18.0
+808,Monte Bondone,2020 - 2021,16.0
+809,Monte Bondone,2021 - To Date,16.0
+810,Mount Sunapee,2012 - 2013,96.0
+811,Mount Sunapee,2013 - 2014,132.0
+812,Mount Sunapee,2014 - 2015,143.0
+813,Mount Sunapee,2015 - 2016,32.0
+814,Mount Sunapee,2016 - 2017,130.0
+815,Mount Sunapee,2017 - 2018,170.0
+816,Mount Sunapee,2018 - 2019,71.0
+817,Mount Sunapee,2019 - 2020,42.0
+818,Mount Sunapee,2020 - 2021,71.0
+819,Mount Sunapee,2021 - To Date,50.0
+820,Mt. Brighton,2012 - 2013,11.0
+821,Mt. Brighton,2013 - 2014,62.0
+822,Mt. Brighton,2014 - 2015,36.0
+823,Mt. Brighton,2015 - 2016,30.0
+824,Mt. Brighton,2016 - 2017,30.0
+825,Mt. Brighton,2017 - 2018,77.0
+826,Mt. Brighton,2018 - 2019,26.0
+827,Mt. Brighton,2019 - 2020,44.0
+828,Mt. Brighton,2020 - 2021,39.0
+829,Mt. Brighton,2021 - To Date,39.0
+830,Pejo,2012 - 2013,96.0
+831,Pejo,2013 - 2014,112.0
+832,Pejo,2014 - 2015,71.0
+833,Pejo,2015 - 2016,52.0
+834,Pejo,2016 - 2017,63.0
+835,Pejo,2017 - 2018,156.0
+836,Pejo,2018 - 2019,10.0
+837,Pejo,2019 - 2020,30.0
+838,Pejo,2020 - 2021,0.0
+839,Pejo,2021 - To Date,0.0
+840,Pinzolo,2012 - 2013,61.0
+841,Pinzolo,2013 - 2014,161.0
+842,Pinzolo,2014 - 2015,75.0
+843,Pinzolo,2015 - 2016,65.0
+844,Pinzolo,2016 - 2017,32.0
+845,Pinzolo,2017 - 2018,48.0
+846,Pinzolo,2018 - 2019,22.0
+847,Pinzolo,2019 - 2020,12.0
+848,Pinzolo,2020 - 2021,0.0
+849,Pinzolo,2021 - To Date,21.0
+850,Telluride,2012 - 2013,196.0
+851,Telluride,2013 - 2014,179.0
+852,Telluride,2014 - 2015,204.0
+853,Telluride,2015 - 2016,241.0
+854,Telluride,2016 - 2017,294.0
+855,Telluride,2017 - 2018,159.0
+856,Telluride,2018 - 2019,323.0
+857,Telluride,2019 - 2020,205.0
+858,Telluride,2020 - 2021,206.0
+859,Telluride,2021 - To Date,179.0
+860,Wilmot Mountain,2012 - 2013,44.0
+861,Wilmot Mountain,2013 - 2014,58.0
+862,Wilmot Mountain,2014 - 2015,15.0
+863,Wilmot Mountain,2015 - 2016,12.0
+864,Wilmot Mountain,2016 - 2017,17.0
+865,Wilmot Mountain,2017 - 2018,37.0
+866,Wilmot Mountain,2018 - 2019,35.0
+867,Wilmot Mountain,2019 - 2020,6.0
+868,Wilmot Mountain,2020 - 2021,22.0
+869,Wilmot Mountain,2021 - To Date,10.0

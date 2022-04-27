@@ -1,0 +1,18 @@
+Below is variable documentation for all variables used in the dashboard
+
+Map_Data.csv:
+Resort - The name of the ski resort
+Resort_Lat - Latitude of the ski resort (for mapping)
+Resort_Long - Longitude of the ski resort (for mapping)
+Pass - Which ski pass (Epic or Ikon) that the resort belongs to
+Vertical Drop - The vertical distance (in feet) from resort summit to base
+Skiable Terrain - The amount of skiable terrain for each resort (in acreage for US resorts)
+and total km for European resorts)
+Average Snowfall - The average annual snowfall (in inches) for the resort
+
+Graph_Data.csv:
+Resort - The name of the ski resort
+Year - The ski season for the resort (ex. 2015-2016). Covers all seasons from 2012-2013
+until the current 2021-2022 season
+Total Snowfall - The annual snowfall (in inches) for the resort/year combination.
+A value of 0 implies that the resort did not open to measure (occurs due to COVID)
