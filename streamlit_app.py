@@ -68,7 +68,7 @@ st.header('Annual Snowfall by Resort')
 st.write('The graph below will display the past decade of annual snowfall data.')
 
 #Import the annual data and create a resort list
-df_graph = pd.read_csv('/work/Graph_Data.csv')
+df_graph = pd.read_csv('Graph_Data.csv')
 resort_list = list(df_graph['Resort'].unique())
 resort_list_sorted = sorted(resort_list)
 
