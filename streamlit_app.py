@@ -28,7 +28,7 @@ pass_input = st.radio('Which pass are you interested in?', ['Epic', 'Ikon'])
 ##### Output
 MAPKEY = {"mapbox": "pk.eyJ1IjoicGhlbmV5OTkiLCJhIjoiY2wyZ3RyN2o2MDNkcTNkbW11MWFpZjhvdCJ9.dgUEOaTXqL6eQYigFlUEUQ"}
 #Filter the dataframe on the pass column based on user input
-df_map=pd.read_csv('/work/Map_Data.csv')
+df_map=pd.read_csv('Map_Data.csv')
 df_map2 = df_map[df_map['Pass'] == pass_input]
 
 #Set the view state for starting position
